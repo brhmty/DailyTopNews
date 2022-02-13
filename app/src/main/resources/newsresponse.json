@@ -1,0 +1,19 @@
+{
+  "status": "ok",
+  "totalResults": 37,
+  "articles": [
+    {
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": "Mike Snider, USA TODAY",
+      "title": "Joni Mitchell joins Neil Young in the Spotify departure. Could more music giants follow suit? - USA TODAY",
+      "description": "Joni Mitchell and Nils Lofgren have joined Neil Young in removing their music from Spotify over concerns that host Joe Rogan spreads misinformation.",
+      "url": "https://www.usatoday.com/story/money/2022/01/29/spotify-joni-mitchell-remove-music-neil-young-vaccine-misinformation/9267962002/",
+      "urlToImage": "https://www.gannett-cdn.com/presto/2021/08/25/USAT/66a1c2c9-a744-40d4-bcd9-7dfd579ede3b-Joni_M.jpg?auto=webp&crop=1535,863,x1,y421&format=pjpg&width=1200",
+      "publishedAt": "2022-01-30T16:41:15Z",
+      "content": "Add Joni Mitchell and Nils Lofgren to the #ByeSpotify team.\r\nMitchell – who recently was feted at the Kennedy Center Honors – said on her website Friday that she stands with fellow Canadian-born arti… [+6209 chars]"
+    }
+  ]
+}

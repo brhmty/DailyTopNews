@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/tr"
+        android:titleCondensed="tr"
+        android:title="@string/Turkey" />
+    <item
+        android:id="@+id/us"
+        android:title="@string/USA"
+        android:titleCondensed="us" />
+    <item
+        android:id="@+id/de"
+        android:titleCondensed="de"
+        android:title="@string/Germany"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/ru"
+        android:titleCondensed="ru"
+        android:title="@string/Russia"
+        app:showAsAction="never" />
+
+</menu>
