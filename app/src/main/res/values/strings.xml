@@ -6,7 +6,7 @@
     <string name="hello_info_fragment">Hello info fragment</string>
     <string name="Turkey">Turkey</string>
     <string name="USA">USA</string>
-    <string name="Germany">German</string>
+    <string name="Germany">Germany</string>
     <string name="Russia">Russia</string>
     <string name="shared_preference_country">country</string>
 </resources>
